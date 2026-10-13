@@ -1,0 +1,13 @@
+/* Eigen stijlen - komt NA bootstrap, dus deze winnen */
+
+body {
+  background-color: #f5f6f8;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+.card-title {
+  color: #0d6efd;
+}
